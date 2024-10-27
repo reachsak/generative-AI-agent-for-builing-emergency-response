@@ -2,7 +2,7 @@
 # 
 
 ## Summary
-<img src="/images/emerge.png" style="float: left; margin-right: 20px; max-width: 200px;">
+<img src="/image.png" style="float: left; margin-right: 20px; max-width: 200px;">
 
 This study explores the use of a multimodal large language model (VLLM) as an autonomous agent designed for disaster detection and emergency response in smart buildings. While the framework is designed for general emergency situations, the primary focus is on fire emergencies.
 
