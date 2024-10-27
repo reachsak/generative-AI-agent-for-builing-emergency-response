@@ -1,5 +1,5 @@
 # generative-AI-agent-for-builing-emergency-response
-# Study 3: Multimodal Large Language Model as an Autonomous Agent for Disaster Emergency Detection and Response in Smart Buildings
+# Multimodal Large Language Model as an Autonomous Agent for Disaster Emergency Detection and Response in Smart Buildings
 
 ## Summary
 
